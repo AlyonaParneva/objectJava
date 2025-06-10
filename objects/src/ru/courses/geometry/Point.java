@@ -1,4 +1,4 @@
-package geometry;
+package ru.courses.geometry;
 
 public class Point implements Cloneable {
     int x, y;
